@@ -1,5 +1,10 @@
 #  EV Market Dashboard - Resume Project Challenge 12 🚗
 
+## Interactive Dashboard
+
+Explore the **[Interactive Dashboard on Power BI](https://app.powerbi.com/groups/me/reports/698e214f-ab30-4424-8574-0b0c8e378f30/1d2734b8d2c303fd2b8e?experience=power-bi)** to dive deeper into the data.
+
+
 ## Overview
 
 This project is part of the **Resume Project Challenge 12** organized by Codebasics. The goal was to analyze the Indian Electric Vehicle (EV) market, focusing on sales trends, penetration rates, and growth projections, and to provide actionable insights for AtliQ Motors' expansion plans in India.
